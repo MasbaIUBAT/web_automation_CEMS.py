@@ -82,7 +82,7 @@ csharp
 Here's a comprehensive README.md for your SEO check script:
 
 markdown
-Copy code
+
 # SEO Check Script
 
 This Python script performs a series of checks on a specified website to evaluate its Search Engine Optimization (SEO) effectiveness. It examines key SEO elements, including the presence of meta descriptions, title tags, mobile-friendliness, structured data, and checks for broken links.
