@@ -79,6 +79,4 @@ Selenium - For browser automation.
 csharp
 Copy code
 
-### Instructions:
-- Replace `https://github.com/yourusername/website-health-check.git` with the actual URL of your GitHub repository.
-- You can also customize the sections as per your project specifics.
+
